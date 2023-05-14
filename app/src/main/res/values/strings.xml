@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WorldSkils</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string-array name="info" >
+        <item>Hello!
+        Coffee to Go is an application in which you
+        can order coffee online and pick it up at the
+        coffee shop closest to you. </item>
+        <item>Now let\'s tell you how it works,
+        Search for a coffee shop
+        The map shows the nearest coffee shops
+        to you, choose the most convenient one for
+        you. The app will tell you how long to go to
+        it. </item>
+        <item>Making an order
+        Choose your favorite drinks and desserts.
+        You can change their composition and
+        choose the time when it will be
+        convenient for you to pick them up.</item>
+        <item>Receiving an order
+        At the specified time, come to the coffee
+        shop and enjoy the taste of coffee,
+        without queuing and waiting.</item>
+    </string-array>
+</resources>

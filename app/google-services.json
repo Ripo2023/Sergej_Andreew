@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510020214793",
+    "project_id": "worldskils-8cf5d",
+    "storage_bucket": "worldskils-8cf5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510020214793:android:8539ae174192108802d8d8",
+        "android_client_info": {
+          "package_name": "com.example.worldskils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510020214793-k0atf71icjki4t0sofp24ka1ulj579a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVaF8-xv1-H02d-dJ1gCdJ14hd8C0gIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510020214793-k0atf71icjki4t0sofp24ka1ulj579a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
