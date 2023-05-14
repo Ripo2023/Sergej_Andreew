@@ -16,6 +16,7 @@ public class SplachScreenActivity extends AppCompatActivity {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+        if(MyConstants.Fla)
         startActivity(new Intent(this, AppInfoActivity.class));
         //^-- начальная точка запуска + заставка
     }

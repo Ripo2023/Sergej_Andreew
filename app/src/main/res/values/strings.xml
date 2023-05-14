@@ -1,7 +1,11 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">WorldSkils</string>
     <string name="next">Next</string>
     <string name="skip">Skip</string>
+    <string name="phone">Phone</string>
+    <string name="i_m_agree_whit_privacy_policy_and_user_agreement">i\'m agree whit privacy policy and user agreement</string>
+    <string name="con">Continue</string>
+    <string name="_______">_______</string>
     <string-array name="info" >
         <item>Hello!
         Coffee to Go is an application in which you
